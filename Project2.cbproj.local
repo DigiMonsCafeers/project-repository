@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.295,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaserver.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaserver.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\cjenik.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\cjenik.cpp=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\cjenik.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\cjenik.h=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\cjenik.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\cjenik.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\cjenik.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaklijent.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaklijent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaklijent.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\kontakti.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Untitled1.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\narudbaklijent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\JandrokovicPC\Documents\Embarcadero\Studio\Projects\MojProjekt\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="cjenik.cpp"/>
+    <File Path="cjenik.cpp"/>
+    <File Path="cjenik.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
